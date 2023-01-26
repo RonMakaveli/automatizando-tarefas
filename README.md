@@ -1,2 +1,2 @@
-# automatizando-tarefas
-Automatizando tarefas do meu dia a dia.
+# Domesticando uma serpente 
+Automatizando tarefas, analisando dado... :snake: :repeat:
