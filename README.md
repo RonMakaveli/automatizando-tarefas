@@ -1,2 +1,2 @@
 # Domesticando uma serpente 
-Automatizando tarefas, analisando dado... :snake: :repeat:
+Automatizando tarefas, analisando dados... :snake: :repeat:
